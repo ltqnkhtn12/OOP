@@ -1,5 +1,4 @@
 #include <iostream>
-#include "Point.cpp"
 #include "Line.cpp"
 
 using namespace std;
